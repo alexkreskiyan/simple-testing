@@ -1,0 +1,11 @@
+# editors
+# Vim
+*.swp
+# Visual Studio
+.vs/
+# Visual Studio Code
+.vscode/
+
+# artifacts
+bin/
+obj/
